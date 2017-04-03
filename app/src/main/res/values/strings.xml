@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">serruchotracker</string>
+    <string name="buttonToast01">Show toast</string>
+    <string name="actionExit">Exit</string>
+</resources>
